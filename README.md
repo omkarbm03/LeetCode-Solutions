@@ -5,3 +5,4 @@ This repository contains my solutions to LeetCode problems, organized by categor
 ## Categories
 - [Arrays and Hashing](/Arrays%20and%20Hashing)
 - [Two Pointers](/Two%20Pointers)
+- [Stack](/Stack)
