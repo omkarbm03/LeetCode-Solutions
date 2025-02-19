@@ -7,3 +7,4 @@ This repository contains my solutions to LeetCode problems, organized by categor
 - [Two Pointers](/Two%20Pointers)
 - [Stack](/Stack)
 - [Sliding Window](/Sliding%20Window)
+- [Linked List](/Linked%20List/)
