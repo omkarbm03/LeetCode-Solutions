@@ -8,3 +8,4 @@ This repository contains my solutions to LeetCode problems, organized by categor
 - [Stack](/Stack)
 - [Sliding Window](/Sliding%20Window)
 - [Linked List](/Linked%20List/)
+- [Binary Search](/Binary%20Search/)
